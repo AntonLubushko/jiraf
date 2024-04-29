@@ -5,6 +5,8 @@ dist
 tmp
 /out-tsc
 /envs
+/mongo-data-4.4
+
 # dependencies
 node_modules
 
@@ -39,3 +41,6 @@ testem.log
 Thumbs.db
 
 .nx/cache
+
+# Docker
+docker-compose.yml
