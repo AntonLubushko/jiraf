@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@jiraf/contracts": ["contracts/src/index.ts"],
       "@jiraf/interfaces": ["interfaces/src/index.ts"]
     }
   },
